@@ -2209,6 +2209,11 @@ input, select, textarea {
 	ul.labeled-icons {
 		list-style: none;
 		padding: 0;
+
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		flex-direction: column;
 	}
 
 		ul.labeled-icons li {
