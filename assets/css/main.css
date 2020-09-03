@@ -2563,9 +2563,10 @@ input, select, textarea {
 		}
 
 		.work-item p {
-			font-size: 0.8em;
+			/* font-size: 0.8em; */
 			line-height: 1.5em;
 			margin: 0;
+			text-align: center;
 		}
 
 /* Header */
@@ -3258,7 +3259,7 @@ input, select, textarea {
 	}
 
 	.languages .icons {
-		font-size: 45.28px;
+		font-size: 75.28px;
 	}
 
 	.currentInterests {
